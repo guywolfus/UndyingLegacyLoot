@@ -1,0 +1,12 @@
+## Interface: 30402
+## Title: UndyingLegacyLoot
+## Notes: Look up the priority on loot for <Undying Legacy>
+## Author: Rophe/Roochney
+## Version: 1.0.0
+## DefaultState: enabled
+## SavedVariables: ULL_LootPrioTable
+
+init.lua
+Libs\Libs.xml
+Core\Core.xml
+UndyingLegacyLoot.lua
